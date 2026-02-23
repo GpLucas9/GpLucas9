@@ -1,4 +1,4 @@
-## Hi there 👋
+## Opa 👋
 
 Olá! Sou Lucas Souza, desenvolvedor backend em início de carreira, com foco em Java. Também tenho interesse e capacidade para atuar como desenvolvedor fullstack, trabalhando com tecnologias de front-end e back-end para entregar soluções completas.
 
