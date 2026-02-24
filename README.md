@@ -12,4 +12,6 @@ LinkedIn: https://www.linkedin.com/in/lucas-souza-2797362b8/
 
 GitHub: https://github.com/GpLucas9
 
+Portfólio: lucasportf.netlify.app
+
 E-mail: Lucassouzawc5@gmail.com
