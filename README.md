@@ -8,7 +8,7 @@ Minhas principais ferramentas e tecnologias incluem Java, Spring Boot, React, Vu
 
 Tenho sólida compreensão de conceitos fundamentais como Programação Orientada a Objetos, desenvolvimento de APIs REST e boas práticas de código limpo (Clean Code).
 
-Para entrar em contato
+Para entrar em contato:
 
 LinkedIn: https://www.linkedin.com/in/lucas-souza-2797362b8/
 
