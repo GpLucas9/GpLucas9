@@ -1,6 +1,6 @@
 ## OLá 👋
 
-Sou desenvolvedor backend em início de carreira, com foco em Java e Spring Boot, atuando na construção de APIs REST e aplicações orientadas a boas práticas de desenvolvimento.
+Profissional em transição de carreira da área de Logística para Tecnologia, com foco em desenvolvimento backend em Java e Spring Boot. Ao longo do último ano, venho consolidando minha base técnica por meio de estudos contínuos e desenvolvimento prático de APIs REST, aplicando boas práticas de engenharia de software.
 
 Tenho experiência prática com Programação Orientada a Objetos (POO), versionamento com Git e desenvolvimento de APIs utilizando Spring Boot. Também aplico testes automatizados para garantir maior confiabilidade e qualidade no código. 
 
