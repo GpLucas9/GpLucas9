@@ -1,12 +1,12 @@
 ## OLá 👋
 
-Sou Lucas Souza, desenvolvedor backend em início de carreira, com foco em Java. Também tenho interesse e capacidade para atuar como desenvolvedor fullstack, trabalhando com tecnologias de front-end e back-end para entregar soluções completas.
+Sou desenvolvedor backend em início de carreira, com foco em Java e Spring Boot, atuando na construção de APIs REST e aplicações orientadas a boas práticas de desenvolvimento.
 
-Atualmente, estou em busca de uma oportunidade na área de tecnologia para aplicar e expandir meus conhecimentos, contribuindo com projetos desafiadores.
+Tenho experiência prática com Programação Orientada a Objetos (POO), versionamento com Git e desenvolvimento de APIs utilizando Spring Boot. Também aplico testes automatizados para garantir maior confiabilidade e qualidade no código. 
 
-Minhas principais ferramentas e tecnologias incluem Java, Spring Boot, React, Vue e Tailwind CSS. Utilizo Git para versionamento, Maven para gerenciamento de dependências e Postman para testes de APIs. 
+Valorizo código limpo, organização e documentação clara. Busco sempre entender como as soluções se encaixam na arquitetura do sistema como um todo, priorizando estrutura, manutenibilidade e evolução contínua. 
 
-Tenho sólida compreensão de conceitos fundamentais como Programação Orientada a Objetos, desenvolvimento de APIs REST e boas práticas de código limpo (Clean Code).
+Possuo base em tecnologias de front-end, o que me permite contribuir também como desenvolvedor fullstack quando necessário. Atualmente, busco uma oportunidade como Desenvolvedor Backend Java, onde eu possa evoluir tecnicamente, gerar impacto positivo no time e crescer junto com a empresa.
 
 Para entrar em contato:
 
