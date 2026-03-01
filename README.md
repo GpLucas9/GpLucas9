@@ -1,12 +1,14 @@
 ## OLá 👋
 
-Profissional em transição de carreira da área de Logística para Tecnologia, com foco em desenvolvimento backend em Java e Spring Boot. Ao longo do último ano, venho consolidando minha base técnica por meio de estudos contínuos e desenvolvimento prático de APIs REST, aplicando boas práticas de engenharia de software.
+Profissional em transição de carreira da área de Logística para Tecnologia, com foco em desenvolvimento Backend Java. Ao longo do último ano, venho consolidando minha base técnica por meio de estudos contínuos e desenvolvimento prático de APIs REST com Spring Boot, aplicando boas práticas de engenharia de software.
 
-Tenho experiência prática com Programação Orientada a Objetos (POO), versionamento com Git e desenvolvimento de APIs utilizando Spring Boot. Também aplico testes automatizados para garantir maior confiabilidade e qualidade no código. 
+Possuo experiência com Programação Orientada a Objetos (POO), desenvolvimento de APIs integradas ao PostgreSQL e aplicação de testes automatizados para garantir qualidade, confiabilidade e manutenibilidade do código.
 
-Valorizo código limpo, organização e documentação clara. Busco sempre entender como as soluções se encaixam na arquitetura do sistema como um todo, priorizando estrutura, manutenibilidade e evolução contínua. 
+Tenho conhecimentos em AWS, aplicando conceitos de cloud computing no desenvolvimento e deploy de aplicações.
 
-Possuo base em tecnologias de front-end, o que me permite contribuir também como desenvolvedor fullstack quando necessário. Atualmente, busco uma oportunidade como Desenvolvedor Backend Java, onde eu possa evoluir tecnicamente, gerar impacto positivo no time e crescer junto com a empresa.
+Valorizo código limpo, organização e arquitetura bem estruturada, buscando sempre desenvolver soluções escaláveis e sustentáveis a longo prazo.
+
+Atualmente, busco uma oportunidade como Desenvolvedor Backend Java, onde eu possa evoluir tecnicamente e contribuir com soluções robustas e bem estruturadas.
 
 Para entrar em contato:
 
