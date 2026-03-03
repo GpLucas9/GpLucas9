@@ -1,24 +1,19 @@
 ## OLá 👋
-
 Desenvolvedor focado na construção de soluções escaláveis e sistemas de alta disponibilidade.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas, unindo a base acadêmica à prática contínua de engenharia de software e boas práticas de desenvolvimento.
+Atualmente curso Análise e Desenvolvimento de Sistemas, unindo base acadêmica à prática contínua em engenharia de software e boas práticas de desenvolvimento.
 
-​Tenho sólida experiência no desenvolvimento de APIs REST e sistemas integrados a bancos de dados relacionais (PostgreSQL). 
+Possuo experiência no desenvolvimento de APIs REST e sistemas integrados a bancos de dados relacionais como PostgreSQL.
 
-Meu trabalho é pautado pela aplicação de Programação Orientada a Objetos, versionamento com Git e a implementação de testes automatizados, garantindo código limpo, seguro e de fácil manutenção.
+Meu trabalho é guiado por princípios de Programação Orientada a Objetos, versionamento com Git e implementação de testes automatizados, garantindo código limpo, seguro e de fácil manutenção.
 
-​Minha stack técnica:
+Stack técnica:
+Backend: Java, Node.js e ecossistema Spring (Boot, Data, Security).
+Frontend: React e Tailwind CSS.
+Cloud & Infra: Conhecimentos em AWS e conceitos de cloud computing.
+Qualidade: Clean Code, documentação clara e aplicação de padrões de projeto.
 
-​Backend: Java e ecossistema Spring (Boot, Data, Security).
-
-​Frontend: Desenvolvimento de interfaces modernas com React e Tailwind CSS.
-
-​Cloud & Infra: Conhecimentos em AWS para deploy e conceitos de cloud computing.
-
-​Qualidade: Foco em Clean Code, documentação clara e padrões de projeto.
-
-​Busco contribuir em times que valorizem a evolução técnica e a entrega de produtos que gerem impacto real, sempre priorizando a escalabilidade e a organização do sistema como um todo.
+Busco contribuir em times que valorizem evolução técnica e entrega de produtos que gerem impacto real, sempre priorizando escalabilidade e organização do sistema.
 
 Para entrar em contato:
 
