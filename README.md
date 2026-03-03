@@ -1,16 +1,23 @@
 ## OLá 👋
 
-Profissional em transição de carreira da área de Logística para Tecnologia, com foco em desenvolvimento Backend Java. Ao longo do último ano, venho consolidando minha base técnica por meio de estudos contínuos e desenvolvimento prático de APIs REST, aplicando boas práticas de engenharia de software.
+Desenvolvedor focado na construção de soluções escaláveis e sistemas de alta disponibilidade.
 
-Tenho experiência com Programação Orientada a Objetos (POO), versionamento com Git e desenvolvimento de APIs utilizando Spring Boot, integradas ao banco de dados PostgreSQL. Também aplico testes automatizados para garantir maior confiabilidade, qualidade e manutenibilidade do código.
+Atualmente, curso Análise e Desenvolvimento de Sistemas, unindo a base acadêmica à prática contínua de engenharia de software e boas práticas de desenvolvimento.
 
-Possuo conhecimentos em AWS, aplicando conceitos de cloud computing no desenvolvimento e deploy de aplicações.
+​Tenho sólida experiência no desenvolvimento de APIs REST e sistemas integrados a bancos de dados relacionais (PostgreSQL). 
 
-Valorizo código limpo, organização e documentação clara. Busco compreender como as soluções se integram à arquitetura do sistema como um todo, priorizando estrutura, escalabilidade e evolução contínua.
+Meu trabalho é pautado pela aplicação de Programação Orientada a Objetos, versionamento com Git e a implementação de testes automatizados, garantindo código limpo, seguro e de fácil manutenção.
 
-Além do backend, possuo base em desenvolvimento front-end com React e Tailwind CSS, o que me permite contribuir também como desenvolvedor fullstack quando necessário.
+​Minha stack técnica:
+​Backend: Java e ecossistema Spring (Boot, Data, Security).
 
-Atualmente, busco uma oportunidade como Desenvolvedor Backend Java, onde eu possa evoluir tecnicamente, contribuir com o time e gerar impacto real no produto.
+​Frontend: Desenvolvimento de interfaces modernas com React e Tailwind CSS.
+
+​Cloud & Infra: Conhecimentos em AWS para deploy e conceitos de cloud computing.
+
+​Qualidade: Foco em Clean Code, documentação clara e padrões de projeto.
+
+​Busco contribuir em times que valorizem a evolução técnica e a entrega de produtos que gerem impacto real, sempre priorizando a escalabilidade e a organização do sistema como um todo.
 
 Para entrar em contato:
 
