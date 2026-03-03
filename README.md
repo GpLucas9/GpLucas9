@@ -9,6 +9,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas, unindo a base acadêmi
 Meu trabalho é pautado pela aplicação de Programação Orientada a Objetos, versionamento com Git e a implementação de testes automatizados, garantindo código limpo, seguro e de fácil manutenção.
 
 ​Minha stack técnica:
+
 ​Backend: Java e ecossistema Spring (Boot, Data, Security).
 
 ​Frontend: Desenvolvimento de interfaces modernas com React e Tailwind CSS.
